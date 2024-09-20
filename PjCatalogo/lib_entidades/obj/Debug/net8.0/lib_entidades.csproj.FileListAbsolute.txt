@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\User\source\repos\PjCatalogo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll

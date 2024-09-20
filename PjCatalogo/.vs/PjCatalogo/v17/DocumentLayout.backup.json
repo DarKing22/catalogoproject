@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PjCatalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119EC885-8F96-4F46-822E-8B0B39F638C4}|Mst_catalogo\\Mst_catalogo.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\mst_catalogo\\repositorios\\estadospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119EC885-8F96-4F46-822E-8B0B39F638C4}|Mst_catalogo\\Mst_catalogo.csproj|solutionrelative:mst_catalogo\\repositorios\\estadospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119EC885-8F96-4F46-822E-8B0B39F638C4}|Mst_catalogo\\Mst_catalogo.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\mst_catalogo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119EC885-8F96-4F46-822E-8B0B39F638C4}|Mst_catalogo\\Mst_catalogo.csproj|solutionrelative:mst_catalogo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\publicacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\publicacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\fabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\fabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\imagenesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\imagenesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\categoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\categoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\estadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\estadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\implementaciones\\productosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\productosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\iimagenesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iimagenesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\ipublicacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ipublicacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\iproductosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iproductosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\ifabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ifabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\icategoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\icategoriasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\interfaces\\iestadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iestadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CEC45FD-9F19-4029-8DA5-5ECFE4CFC245}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\lib_entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\publicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\publicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\fabricantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\fabricantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|c:\\users\\user\\source\\repos\\pjcatalogo\\lib_entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAB62B1-F4CC-439E-A2F6-C69774D4FBEE}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadosPruebaUnitaria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\Mst_catalogo\\Repositorios\\EstadosPruebaUnitaria.cs",
+              "RelativeDocumentMoniker": "Mst_catalogo\\Repositorios\\EstadosPruebaUnitaria.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\Mst_catalogo\\Repositorios\\EstadosPruebaUnitaria.cs*",
+              "RelativeToolTip": "Mst_catalogo\\Repositorios\\EstadosPruebaUnitaria.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:29:06.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FabricantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:27:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagenesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\ImagenesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ImagenesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\ImagenesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ImagenesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:25:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\CategoriasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CategoriasRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\CategoriasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CategoriasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:21:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\ProductosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\ProductosRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\ProductosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\ProductosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:16:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicacionesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\PublicacionesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PublicacionesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\PublicacionesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PublicacionesRepositorio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:13:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:12:20.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImagenesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IImagenesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IImagenesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IImagenesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IImagenesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:11:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\Mst_catalogo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Mst_catalogo\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\Mst_catalogo\\UnitTest1.cs",
+              "RelativeToolTip": "Mst_catalogo\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:19:26.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPublicacionesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IPublicacionesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IPublicacionesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IPublicacionesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IPublicacionesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:07:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IProductosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IProductosRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IProductosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IProductosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:06:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFabricantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IFabricantesRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IFabricantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IFabricantesRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IFabricantesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:04:17.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoriasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\ICategoriasRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\ICategoriasRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\ICategoriasRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\ICategoriasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:03:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEstadosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IEstadosRepositorio.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IEstadosRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Interfaces\\IEstadosRepositorio.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IEstadosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:02:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lib_entidades",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\lib_entidades.csproj",
+              "RelativeDocumentMoniker": "lib_entidades\\lib_entidades.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\lib_entidades.csproj",
+              "RelativeToolTip": "lib_entidades\\lib_entidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T01:19:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Conexion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_repositorios\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Conexion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:59:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Imagenes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Imagenes.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Imagenes.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Imagenes.cs",
+              "RelativeToolTip": "lib_entidades\\Imagenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:56:16.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Publicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Publicaciones.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Publicaciones.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Publicaciones.cs",
+              "RelativeToolTip": "lib_entidades\\Publicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:48:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Productos.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Productos.cs",
+              "RelativeToolTip": "lib_entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:39:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Estados.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Estados.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Estados.cs",
+              "RelativeToolTip": "lib_entidades\\Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:31:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Fabricantes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Fabricantes.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Fabricantes.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Fabricantes.cs",
+              "RelativeToolTip": "lib_entidades\\Fabricantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:36:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Categorias.cs",
+              "RelativeDocumentMoniker": "lib_entidades\\Categorias.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PjCatalogo\\lib_entidades\\Categorias.cs",
+              "RelativeToolTip": "lib_entidades\\Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:34:34.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
